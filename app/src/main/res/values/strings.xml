@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizzIgti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="correct_msgn_toast">Muito bem, acertou!</string>
+    <string name="incorrect_msgn_toast">Resposta errada... :/</string>
+    <string name="result_placeholder">Resultado</string>
+    <string name="restart">Reiniciar</string>
+    <string name="loading">Carregando...</string>
+    <string name="true_option">Verdadeiro</string>
+    <string name="false_option">Falso</string>
+</resources>
